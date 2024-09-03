@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! My name is [Your Full Name]. I am currently pursuing a Bachelor's degree in Computer Science from FAST National University of Computer and Emerging Sciences. My journey in education has been quite enriching and has shaped my passion for technology and innovation.
+Hello! My name is Mohammad Burair. I am currently pursuing a Bachelor's degree in Computer Science from FAST National University of Computer and Emerging Sciences. My journey in education has been quite enriching and has shaped my passion for technology and innovation.
 
 ## Education
 
