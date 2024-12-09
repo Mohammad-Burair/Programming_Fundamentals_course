@@ -1,3 +1,9 @@
+/*
+    *Name : Mohammad Burair 
+    *Section : BCS-1C
+    *Roll Number : 24K-0775
+    *Desc : Program that defines structure for the player. Fucntion are created to play the game , validate score , displayer score and winner 
+*/
 #include<stdio.h>
 #include<string.h>
 #include<stdbool.h>
